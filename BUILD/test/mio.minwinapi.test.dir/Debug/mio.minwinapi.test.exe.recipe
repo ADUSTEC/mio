@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\~DEV\--PROJECTS\SimpleGLRenderer\SimpleGLRenderer\vendor\mio\BUILD\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\~DEV\--PROJECTS\SimpleGLRenderer\SimpleGLRenderer\vendor\mio\BUILD\test\Debug\mio.minwinapi.test.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

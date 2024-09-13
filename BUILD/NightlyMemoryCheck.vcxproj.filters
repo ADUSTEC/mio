@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\~DEV\--PROJECTS\SimpleGLRenderer\SimpleGLRenderer\vendor\mio\BUILD\CMakeFiles\e9606effffcf6f266ac14db4f4c291f8\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\~DEV\--PROJECTS\SimpleGLRenderer\SimpleGLRenderer\vendor\mio\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\~DEV\--PROJECTS\SimpleGLRenderer\SimpleGLRenderer\vendor\mio\BUILD\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{26AA19E7-6123-3FCF-8C8A-10686FC73BAB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

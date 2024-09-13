@@ -1,0 +1,12 @@
+﻿  Building Custom Rule D:/~DEV/--PROJECTS/SimpleGLRenderer/SimpleGLRenderer/vendor/mio/test/CMakeLists.txt
+  test.cpp
+D:\~DEV\--PROJECTS\SimpleGLRenderer\SimpleGLRenderer\vendor\mio\test\test.cpp(43,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\~DEV\--PROJECTS\SimpleGLRenderer\SimpleGLRenderer\vendor\mio\test\test.cpp(43,25): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\~DEV\--PROJECTS\SimpleGLRenderer\SimpleGLRenderer\vendor\mio\test\test.cpp(169,25): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+D:\~DEV\--PROJECTS\SimpleGLRenderer\SimpleGLRenderer\vendor\mio\test\test.cpp(169,25): message : consider using '%zu' in the format string
+D:\~DEV\--PROJECTS\SimpleGLRenderer\SimpleGLRenderer\vendor\mio\test\test.cpp(149,5): message : see reference to function template instantiation 'void test_at_offset<mio::mmap_source>(const MMap &,const std::string &,const size_t)' being compiled
+          with
+          [
+              MMap=mio::mmap_source
+          ]
+  mio.unicode.test.vcxproj -> D:\~DEV\--PROJECTS\SimpleGLRenderer\SimpleGLRenderer\vendor\mio\BUILD\test\Debug\mio.unicode.test.exe

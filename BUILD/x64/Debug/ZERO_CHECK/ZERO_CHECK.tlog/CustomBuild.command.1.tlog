@@ -1,0 +1,10 @@
+^D:\~DEV\--PROJECTS\SIMPLEGLRENDERER\SIMPLEGLRENDERER\VENDOR\MIO\BUILD\CMAKEFILES\E9606EFFFFCF6F266AC14DB4F4C291F8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/~DEV/--PROJECTS/SimpleGLRenderer/SimpleGLRenderer/vendor/mio -BD:/~DEV/--PROJECTS/SimpleGLRenderer/SimpleGLRenderer/vendor/mio/BUILD --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/~DEV/--PROJECTS/SimpleGLRenderer/SimpleGLRenderer/vendor/mio/BUILD/mio.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
